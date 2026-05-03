@@ -1,22 +1,31 @@
-<h3 align="center">I'm Alisée </h3>
+<h3 align="center">Alisée FLECHON</h3>
 <p align="center">
-  Computer Science Student • Web & Mobile Developer
+  Future Engineer in Responsible Digital • Web & Mobile Developer • Tech Enthusiast
 </p>
-
----
-
-### About me
-- Currently studying IT / Software Engineering  
-- Passionate about web development, mobile apps & cybersecurity  
-- Always improving my skills and building projects
 
 ---
 
 ### Tech Stack
+
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,java,python,mysql,git,github" />
+  <strong>Front-end</strong><br>
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind" />
 </p>
 
+<p>
+  <strong>Back-end</strong><br>
+  <img src="https://skillicons.dev/icons?i=php,laravel,java,python" />
+</p>
+
+<p>
+  <strong>Databases</strong><br>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres" />
+</p>
+
+<p>
+  <strong>Tools & Environment</strong><br>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman,figma,centreon" />
+</p>
 ---
 
 ### Connect with me

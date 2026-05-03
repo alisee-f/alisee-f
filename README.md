@@ -14,12 +14,12 @@
 
 <p>
   <strong>Front-end</strong><br>
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,flutter,dart" />
 </p>
 
 <p>
   <strong>Back-end</strong><br>
-  <img src="https://skillicons.dev/icons?i=php,laravel,java,python" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,python,c" />
 </p>
 
 <p>
@@ -29,5 +29,5 @@
 
 <p>
   <strong>Tools & Environment</strong><br>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman,figma,centreon" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,windows,linux,kali,debian,ubuntu,redhat,vscode,postman,figma" />
 </p>

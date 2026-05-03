@@ -22,6 +22,7 @@
 
 ### 📊 GitHub Stats
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alisee-f&show_icons=true&theme=tokyonight&cache_seconds=86400" />
   <img src="https://github-readme-stats.vercel.app/api?username=alisee-f&show_icons=true&theme=default" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alisee-f&layout=compact&theme=default" height="150"/>
 </p>

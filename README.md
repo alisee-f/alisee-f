@@ -34,8 +34,3 @@
     <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
 </p>
-
----
-
-### ⚡ Fun fact
-I love turning ideas into real applicatio

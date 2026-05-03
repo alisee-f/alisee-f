@@ -1,9 +1,9 @@
-<h3 align="center">Alisée FLECHON</h3> 
 <p>
   <a href="https://www.linkedin.com/in/alisee-flechon">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
 </p>
+<h3 align="center">Alisée FLECHON</h3> 
 <p align="center">
   Future Engineer in Responsible Digital • Web & Mobile Developer • Tech Enthusiast
 </p>

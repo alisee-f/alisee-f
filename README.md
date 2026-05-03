@@ -5,7 +5,7 @@
 </p>
 <h3 align="center">Alisée FLECHON</h3> 
 <p align="center">
-  Future Engineer in Responsible Digital • Web & Mobile Developer • Tech Enthusiast
+  Future Engineer in Responsible Digital • Web & Mobile Developer
 </p>
 
 ---

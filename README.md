@@ -1,4 +1,9 @@
-<h3 align="center">Alisée FLECHON</h3>
+<h3 align="center">Alisée FLECHON</h3> 
+<p>
+  <a href="https://www.linkedin.com/in/alisee-flechon">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+  </a>
+</p>
 <p align="center">
   Future Engineer in Responsible Digital • Web & Mobile Developer • Tech Enthusiast
 </p>
@@ -25,12 +30,4 @@
 <p>
   <strong>Tools & Environment</strong><br>
   <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman,figma,centreon" />
-</p>
----
-
-### Connect with me
-<p>
-  <a href="https://www.linkedin.com/in/alisee-flechon">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
-  </a>
 </p>
